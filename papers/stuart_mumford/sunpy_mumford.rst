@@ -124,6 +124,8 @@ These map classes are meant to hold many maps of a similar spatial region and a 
 LightCurve
 ==========
 
+The LightCurve object blah blah blah
+
 Spectra
 =======
 
