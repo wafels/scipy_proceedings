@@ -14,6 +14,10 @@
 :email: florian.mayer@bitsrc.org
 :institution: Vienna University of Technology
 
+:author: Jack Ireland
+:email: jack.ireland@nasa.gov
+:institution: ADNET Systems, Inc. / NASA Goddard Space Flight Center
+
 ----------------------------------
 SunPy: Python for Solar Physicists
 ----------------------------------
@@ -124,7 +128,7 @@ These map classes are meant to hold many maps of a similar spatial region and a 
 LightCurve
 ==========
 
-The LightCurve object blah blah blah
+The LightCurve object is designed for interpreting and processing time-ordered lists of scalar quantities.
 
 Spectra
 =======
